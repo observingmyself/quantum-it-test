@@ -1,0 +1,28 @@
+  .testimonial {
+      text-align: center;
+      padding: 40px 0;
+    }
+    .testimonial img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin: 20px auto;
+      border: 2px solid #ddd;
+    }
+    .testimonial h5 {
+      color: #5dbb63; /* Green color for the author name */
+    }
+    .testimonial p {
+      color: #666; /* Light gray color for the testimonial text */
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      background-color: black;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+    }
+    footer{
+        background: linear-gradient(90deg,violet 25%,blue 65%);
+    }
